@@ -1,0 +1,7 @@
+pywin32
+requests
+pynput
+colorama
+mouse
+keyboard
+pillow
